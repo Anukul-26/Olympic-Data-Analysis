@@ -6,3 +6,7 @@ This project involves analyzing Olympic athlete data using Python, Pandas, and N
 
 - **`athlete_events.csv`**: Contains detailed information about athletes and their performances in various Olympic events.
 - **`noc_regions.csv`**: Provides the mapping between National Olympic Committees (NOCs) and the corresponding regions.
+
+
+# Olympic Data Analysis- Web App
+A Streamlit web application for the analysis of olympics dataset.
